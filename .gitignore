@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Data files (optional - если не хотите загружать большие файлы)
+# *.xlsx
+# *.csv
+
+# Generated files
+*.png
+*.jpg
+*.pdf
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
